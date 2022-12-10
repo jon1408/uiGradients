@@ -1,4 +1,6 @@
-[
+[   {   "name": "Radioactive Green",
+        "colors": ["#C0FF01", "#AEFF01", "#7FFF01"]
+    },
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
